@@ -1,0 +1,6 @@
+# ignore venv
+venv/**/*
+# ignore database
+data/agent_team.db
+# ignore logs
+logs/**/*

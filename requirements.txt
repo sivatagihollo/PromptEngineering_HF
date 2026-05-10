@@ -1,0 +1,22 @@
+# Core dependencies
+Flask==2.3.2
+Werkzeug==2.3.6
+
+# Data handling
+# SQLite is built into Python, no separate package required
+
+# AI/LLM
+langchain==1.2.18
+huggingface-hub==0.16.4
+
+# UI
+Streamlit==1.25.0
+plotly==5.15.0
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+pydantic==2.7.4
+
+# Optional: For better performance
+cachetools==5.3.1
